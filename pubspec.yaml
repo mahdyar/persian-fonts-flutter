@@ -1,7 +1,6 @@
 name: persian_fonts
 description: A Flutter package for using free persian fonts.
 version: 0.0.1
-author: Mahdyar <hi@mahdyar.me>
 homepage: https://github.com/mahdyar/persian-fonts-flutter
 
 environment:
