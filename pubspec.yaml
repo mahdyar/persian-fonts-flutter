@@ -1,6 +1,6 @@
 name: persian_fonts
-description: A Flutter package for using free persian fonts.
-version: 1.0.0
+description: A Flutter package for using free persian fonts. It supports Vazir, Samim, Shabnam and Sahel fonts.
+version: 1.0.1
 homepage: https://github.com/mahdyar/persian-fonts-flutter
 
 environment:
