@@ -1,3 +1,7 @@
-## [0.0.1] - TODO: Add release date.
+## [1.0.3] - 2021-04-08
 
-* TODO: Describe initial release.
+* update vazir font to v28.0
+
+## [1.0.2] - 2020-07-12
+
+* initial release.
