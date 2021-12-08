@@ -91,4 +91,25 @@ class PersianFonts extends TextStyle {
     button: PersianFonts.Sahel,
     overline: PersianFonts.Sahel,
   );
+/*
+  B-Yekan or Yekan font
+*/
+
+  static const Yekan = TextStyle(fontFamily: 'Yekan', package: 'persian_fonts');
+
+  static TextTheme yekanTextTheme = TextTheme(
+    headline2: PersianFonts.Yekan,
+    headline3: PersianFonts.Yekan,
+    headline1: PersianFonts.Yekan,
+    headline4: PersianFonts.Yekan,
+    headline5: PersianFonts.Yekan,
+    headline6: PersianFonts.Yekan,
+    subtitle1: PersianFonts.Yekan,
+    subtitle2: PersianFonts.Yekan,
+    bodyText1: PersianFonts.Yekan,
+    bodyText2: PersianFonts.Yekan,
+    caption: PersianFonts.Yekan,
+    button: PersianFonts.Yekan,
+    overline: PersianFonts.Yekan,
+  );
 }

@@ -10,12 +10,11 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Persian Fonts Example',
-      home: MyHomePage(),
-      theme: ThemeData(
-        textTheme: PersianFonts.vazirTextTheme,
-      )
-    );
+        title: 'Persian Fonts Example',
+        home: MyHomePage(),
+        theme: ThemeData(
+          textTheme: PersianFonts.vazirTextTheme,
+        ));
   }
 }
 
@@ -49,6 +48,10 @@ class MyHomePage extends StatelessWidget {
                     )),
                 Text('فونت ساحل',
                     style: PersianFonts.Sahel.copyWith(
+                      fontSize: 23.0,
+                    )),
+                Text('فونت یکان',
+                    style: PersianFonts.Yekan.copyWith(
                       fontSize: 23.0,
                     )),
               ],

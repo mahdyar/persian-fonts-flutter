@@ -26,3 +26,6 @@ flutter:
     - family: Sahel
       fonts:
         - asset: lib/fonts/Sahel.ttf
+    - family: Yekan
+      fonts:
+        - asset: lib/fonts/Yekan.ttf
