@@ -10,11 +10,12 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-        title: 'Persian Fonts Example',
-        home: MyHomePage(),
-        theme: ThemeData(
-          textTheme: PersianFonts.vazirTextTheme,
-        ));
+      title: 'Persian Fonts Example',
+      home: MyHomePage(),
+      theme: ThemeData(
+        textTheme: PersianFonts.vazirTextTheme,
+      )
+    );
   }
 }
 
