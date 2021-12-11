@@ -51,6 +51,10 @@ class MyHomePage extends StatelessWidget {
                     style: PersianFonts.Sahel.copyWith(
                       fontSize: 23.0,
                     )),
+                Text('فونت یکان',
+                    style: PersianFonts.Yekan.copyWith(
+                      fontSize: 23.0,
+                    )),
               ],
             ),
           ),
