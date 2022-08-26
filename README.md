@@ -7,7 +7,7 @@ The `persian_fonts` package for Flutter allows you to easily use any free persia
 <img src="https://user-images.githubusercontent.com/20593549/87247670-7b27ba00-c46a-11ea-93f5-431bfbde8743.png" alt="persian_fonts_flutter" height="350" text-align="center"/>
 </p>
 
-Currently, `PersianFonts` supports 4 types of fonts: Vazir, Samim, Shabnam and Sahel. yours isn't hrere? add it!
+Currently, `PersianFonts` supports 5 types of fonts: `Vazir`, `Samim`, `Shabnam`, `Sahel` and `B-Yekan`. yours isn't hrere? add it!
 
 First, add the `persian_fonts` package to your [pubsec dependencies](https://pub.dev/packages/persian_fonts).
 
