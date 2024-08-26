@@ -1,3 +1,7 @@
+## [1.0.6] - 2024-08-26
+
+- Implement new Flutter API
+
 ## [1.0.5] - 2021-12-11
 
 - Add B-Yekan(Yekan) Font
