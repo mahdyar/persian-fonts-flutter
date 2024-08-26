@@ -10,19 +10,19 @@ class PersianFonts extends TextStyle {
 */
 
   static TextTheme vazirTextTheme = TextTheme(
-    headline2: PersianFonts.Vazir,
-    headline3: PersianFonts.Vazir,
-    headline1: PersianFonts.Vazir,
-    headline4: PersianFonts.Vazir,
-    headline5: PersianFonts.Vazir,
-    headline6: PersianFonts.Vazir,
-    subtitle1: PersianFonts.Vazir,
-    subtitle2: PersianFonts.Vazir,
-    bodyText1: PersianFonts.Vazir,
-    bodyText2: PersianFonts.Vazir,
-    caption: PersianFonts.Vazir,
-    button: PersianFonts.Vazir,
-    overline: PersianFonts.Vazir,
+    displayMedium: PersianFonts.Vazir,
+    displaySmall: PersianFonts.Vazir,
+    displayLarge: PersianFonts.Vazir,
+    headlineMedium: PersianFonts.Vazir,
+    headlineSmall: PersianFonts.Vazir,
+    titleLarge: PersianFonts.Vazir,
+    titleMedium: PersianFonts.Vazir,
+    titleSmall: PersianFonts.Vazir,
+    bodyLarge: PersianFonts.Vazir,
+    bodyMedium: PersianFonts.Vazir,
+    bodySmall: PersianFonts.Vazir,
+    labelLarge: PersianFonts.Vazir,
+    labelSmall: PersianFonts.Vazir,
   );
 
 /*
@@ -32,19 +32,19 @@ class PersianFonts extends TextStyle {
   static const Samim = TextStyle(fontFamily: 'Samim', package: 'persian_fonts');
 
   static TextTheme samimTextTheme = TextTheme(
-    headline2: PersianFonts.Samim,
-    headline3: PersianFonts.Samim,
-    headline1: PersianFonts.Samim,
-    headline4: PersianFonts.Samim,
-    headline5: PersianFonts.Samim,
-    headline6: PersianFonts.Samim,
-    subtitle1: PersianFonts.Samim,
-    subtitle2: PersianFonts.Samim,
-    bodyText1: PersianFonts.Samim,
-    bodyText2: PersianFonts.Samim,
-    caption: PersianFonts.Samim,
-    button: PersianFonts.Samim,
-    overline: PersianFonts.Samim,
+    displayMedium: PersianFonts.Samim,
+    displaySmall: PersianFonts.Samim,
+    displayLarge: PersianFonts.Samim,
+    headlineMedium: PersianFonts.Samim,
+    headlineSmall: PersianFonts.Samim,
+    titleLarge: PersianFonts.Samim,
+    titleMedium: PersianFonts.Samim,
+    titleSmall: PersianFonts.Samim,
+    bodyLarge: PersianFonts.Samim,
+    bodyMedium: PersianFonts.Samim,
+    bodySmall: PersianFonts.Samim,
+    labelLarge: PersianFonts.Samim,
+    labelSmall: PersianFonts.Samim,
   );
 
 /*
@@ -55,19 +55,19 @@ class PersianFonts extends TextStyle {
       TextStyle(fontFamily: 'Shabnam', package: 'persian_fonts');
 
   static TextTheme shabnamTextTheme = TextTheme(
-    headline2: PersianFonts.Shabnam,
-    headline3: PersianFonts.Shabnam,
-    headline1: PersianFonts.Shabnam,
-    headline4: PersianFonts.Shabnam,
-    headline5: PersianFonts.Shabnam,
-    headline6: PersianFonts.Shabnam,
-    subtitle1: PersianFonts.Shabnam,
-    subtitle2: PersianFonts.Shabnam,
-    bodyText1: PersianFonts.Shabnam,
-    bodyText2: PersianFonts.Shabnam,
-    caption: PersianFonts.Shabnam,
-    button: PersianFonts.Shabnam,
-    overline: PersianFonts.Shabnam,
+    displayMedium: PersianFonts.Shabnam,
+    displaySmall: PersianFonts.Shabnam,
+    displayLarge: PersianFonts.Shabnam,
+    headlineMedium: PersianFonts.Shabnam,
+    headlineSmall: PersianFonts.Shabnam,
+    titleLarge: PersianFonts.Shabnam,
+    titleMedium: PersianFonts.Shabnam,
+    titleSmall: PersianFonts.Shabnam,
+    bodyLarge: PersianFonts.Shabnam,
+    bodyMedium: PersianFonts.Shabnam,
+    bodySmall: PersianFonts.Shabnam,
+    labelLarge: PersianFonts.Shabnam,
+    labelSmall: PersianFonts.Shabnam,
   );
 
 /*
@@ -77,19 +77,19 @@ class PersianFonts extends TextStyle {
   static const Sahel = TextStyle(fontFamily: 'Sahel', package: 'persian_fonts');
 
   static TextTheme sahelTextTheme = TextTheme(
-    headline2: PersianFonts.Sahel,
-    headline3: PersianFonts.Sahel,
-    headline1: PersianFonts.Sahel,
-    headline4: PersianFonts.Sahel,
-    headline5: PersianFonts.Sahel,
-    headline6: PersianFonts.Sahel,
-    subtitle1: PersianFonts.Sahel,
-    subtitle2: PersianFonts.Sahel,
-    bodyText1: PersianFonts.Sahel,
-    bodyText2: PersianFonts.Sahel,
-    caption: PersianFonts.Sahel,
-    button: PersianFonts.Sahel,
-    overline: PersianFonts.Sahel,
+    displayMedium: PersianFonts.Sahel,
+    displaySmall: PersianFonts.Sahel,
+    displayLarge: PersianFonts.Sahel,
+    headlineMedium: PersianFonts.Sahel,
+    headlineSmall: PersianFonts.Sahel,
+    titleLarge: PersianFonts.Sahel,
+    titleMedium: PersianFonts.Sahel,
+    titleSmall: PersianFonts.Sahel,
+    bodyLarge: PersianFonts.Sahel,
+    bodyMedium: PersianFonts.Sahel,
+    bodySmall: PersianFonts.Sahel,
+    labelLarge: PersianFonts.Sahel,
+    labelSmall: PersianFonts.Sahel,
   );
 
 /*
@@ -99,18 +99,18 @@ class PersianFonts extends TextStyle {
   static const Yekan = TextStyle(fontFamily: 'Yekan', package: 'persian_fonts');
 
   static TextTheme yekanTextTheme = TextTheme(
-    headline2: PersianFonts.Yekan,
-    headline3: PersianFonts.Yekan,
-    headline1: PersianFonts.Yekan,
-    headline4: PersianFonts.Yekan,
-    headline5: PersianFonts.Yekan,
-    headline6: PersianFonts.Yekan,
-    subtitle1: PersianFonts.Yekan,
-    subtitle2: PersianFonts.Yekan,
-    bodyText1: PersianFonts.Yekan,
-    bodyText2: PersianFonts.Yekan,
-    caption: PersianFonts.Yekan,
-    button: PersianFonts.Yekan,
-    overline: PersianFonts.Yekan,
+    displayMedium: PersianFonts.Yekan,
+    displaySmall: PersianFonts.Yekan,
+    displayLarge: PersianFonts.Yekan,
+    headlineMedium: PersianFonts.Yekan,
+    headlineSmall: PersianFonts.Yekan,
+    titleLarge: PersianFonts.Yekan,
+    titleMedium: PersianFonts.Yekan,
+    titleSmall: PersianFonts.Yekan,
+    bodyLarge: PersianFonts.Yekan,
+    bodyMedium: PersianFonts.Yekan,
+    bodySmall: PersianFonts.Yekan,
+    labelLarge: PersianFonts.Yekan,
+    labelSmall: PersianFonts.Yekan,
   );
 }
