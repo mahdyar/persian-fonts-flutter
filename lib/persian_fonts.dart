@@ -5,7 +5,7 @@ import 'package:flutter/material.dart';
 class PersianFonts extends TextStyle {
   static const Vazir = TextStyle(fontFamily: 'Vazir', package: 'persian_fonts');
 
-/*
+  /*
  Vazir Font: https://github.com/rastikerdar/vazir-font
 */
 
@@ -25,7 +25,7 @@ class PersianFonts extends TextStyle {
     labelSmall: PersianFonts.Vazir,
   );
 
-/*
+  /*
  Samim Font: https://github.com/rastikerdar/samim-font
 */
 
@@ -47,12 +47,14 @@ class PersianFonts extends TextStyle {
     labelSmall: PersianFonts.Samim,
   );
 
-/*
+  /*
  Shabnam Font: https://github.com/rastikerdar/shabnam-font
 */
 
-  static const Shabnam =
-      TextStyle(fontFamily: 'Shabnam', package: 'persian_fonts');
+  static const Shabnam = TextStyle(
+    fontFamily: 'Shabnam',
+    package: 'persian_fonts',
+  );
 
   static TextTheme shabnamTextTheme = TextTheme(
     displayMedium: PersianFonts.Shabnam,
@@ -70,7 +72,7 @@ class PersianFonts extends TextStyle {
     labelSmall: PersianFonts.Shabnam,
   );
 
-/*
+  /*
  Sahel Font: https://github.com/rastikerdar/sahel-font 
 */
 
@@ -92,7 +94,7 @@ class PersianFonts extends TextStyle {
     labelSmall: PersianFonts.Sahel,
   );
 
-/*
+  /*
   B-Yekan(Yekan) Font
 */
 
@@ -112,5 +114,26 @@ class PersianFonts extends TextStyle {
     bodySmall: PersianFonts.Yekan,
     labelLarge: PersianFonts.Yekan,
     labelSmall: PersianFonts.Yekan,
+  );
+
+  /*
+    Arad Font
+  */
+  static const Arad = TextStyle(fontFamily: 'Arad', package: 'persian_fonts');
+
+  static TextTheme aradTextTheme = TextTheme(
+    displayMedium: PersianFonts.Arad,
+    displaySmall: PersianFonts.Arad,
+    displayLarge: PersianFonts.Arad,
+    headlineMedium: PersianFonts.Arad,
+    headlineSmall: PersianFonts.Arad,
+    titleLarge: PersianFonts.Arad,
+    titleMedium: PersianFonts.Arad,
+    titleSmall: PersianFonts.Arad,
+    bodyLarge: PersianFonts.Arad,
+    bodyMedium: PersianFonts.Arad,
+    bodySmall: PersianFonts.Arad,
+    labelLarge: PersianFonts.Arad,
+    labelSmall: PersianFonts.Arad,
   );
 }
